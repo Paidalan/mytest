@@ -1,6 +1,7 @@
 {
     "name": "paidalan/test",
     "description": "test",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Mika\\Test\\": "src/"
