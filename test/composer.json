@@ -1,0 +1,10 @@
+{
+    "name": "mika/test",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Mika\\Test\\": "src/"
+        }
+    },
+    "require": {}
+}
